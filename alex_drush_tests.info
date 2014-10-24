@@ -1,0 +1,5 @@
+name = Alex drush tests
+description = Alex drush tests
+core = 7.x
+php = 5.3.x
+package = Alex Moreno
